@@ -34,5 +34,5 @@ int main(){
     if(k==-1){
         cout<<"ELEMENT NOT FOUND "<<endl;
     }
-    cout<<"Element found in "<<k+1<<" position"<<endl;
+    cout<<"Element found in "<<k+1<<" position . So retrieve it"<<endl;
 }
